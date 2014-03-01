@@ -1,8 +1,6 @@
 Icon-Packs
 ==========
 
-Some of the icon packs
-==========
 This icon pack contains icons with following specifications:
 *Facebook
 *Twitter
